@@ -1,0 +1,11 @@
+item.redPaper.name=Red Paper
+item.artKnife.name=Art Knife
+item.gypsumPowder.name=Gypsum Powder
+item.dumpling.name=Dumpling
+
+tile.gypsumOre.name=Gypsum Ore
+tile.candlestick.name=CandleStick
+
+potion.bless=Bless
+
+itemGroup.folkways=Folkways
